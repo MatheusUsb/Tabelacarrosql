@@ -1,4 +1,4 @@
-#Tabelacarrossql
+#Tabela carros sql
 
 CREATE TABLE carro (
     id INT AUTO_INCREMENT PRIMARY KEY,
